@@ -1,1 +1,1 @@
-# imagenet-adversarial-attack-evaluation
+# imagenet-adversarial-image-evaluation
